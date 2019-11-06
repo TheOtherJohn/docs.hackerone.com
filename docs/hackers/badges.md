@@ -17,8 +17,8 @@ When you receive a badge for your profile page, each badge is composed of:
 
 ![badges-5](./images/badges-5.png)
 
-The following lists all of the current badges with a description of how to receive them: 
-
+Here are all the current badges along with a description of how to receive them: 
+#Place a sample image of each badge in the first column below so users see the icon of the badge along with the description) 
 Badge | Description 
 -|-
 Badger | Made a badge suggestion that was implemented by HackerOne
